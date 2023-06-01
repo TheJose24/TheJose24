@@ -36,10 +36,11 @@
 ---  
   ### My Stats :
 <div id="stats" align="center">
-  
+ 
   [![GitHub Streak](https://streak-stats.demolab.com?user=TheJose24&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJose24&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJose24&show_icons=true&theme=tokyonight)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJose24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJose24)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
