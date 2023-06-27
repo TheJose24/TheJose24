@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" />
   <h1 align="center">Hi 👋 I'm Jose Sanchez</hi>
-  <h3 align="center">A Systems Engineering student passionate about the world of technology and software development. I have the privilege of being a scholarship holder of the Oracle: ONE program, which will allow me to deepen my knowledge in software development.
+  <h3 align="center">A Systems Engineering student and scholarship holder of the Oracle Next Education (ONE) program. Passionate about software development and always looking for opportunities to learn and grow. I enjoy working in a team and bringing creativity to challenging projects.
 </div>
   
 <div id="badges" align="center">
@@ -20,7 +20,11 @@
 ---
 ### 🤓 About Me :
 
-- 🔭 My first project : ***🔒[Text Encryptor](https://thejose24.github.io/Challenge-ONE/)🔒***
+- 🔭 My projects :
+
+    ***⭐[My personal website](https://josesanchez-website.netlify.app/)⭐***
+  
+    ***🔒[Text Encryptor](https://thejose24.github.io/Challenge-ONE/)🔒***
 - 🌱 I’m currently learning:
   <div id="icons" align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
@@ -29,9 +33,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
    
   </div> 
-- 📫 How to reach me : ***joseenrique123438@gmail.com***
-- 🌐 Website: in progress...
-
+- 📫 How to contact me : ***joseenrique123438@gmail.com***
+- 🌐 Website: https://josesanchez-website.netlify.app/
   
 ---  
   ### My Stats :
