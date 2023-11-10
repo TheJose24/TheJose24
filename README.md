@@ -15,20 +15,27 @@
 
 - 🗃️ Mis proyectos:
 <div align="center">
+  <a href="#">🎉Sistema de ventas para eventos🎉</a>
+  <br>
+  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/a4189c94-d922-476c-8938-13d9d8f42bd1" width="500"/>
+  <br>
+  En desarrollo..
+  <br>
+  <br>
   <a href="https://a-l-f-r-e-d.onrender.com/">🤖Asistente Virtual🤖</a>
   <br>
   <img src="https://github.com/TheJose24/TheJose24/assets/129393100/e254652c-4f13-4e2a-b737-58eecac7af29" width="500"/>
   <br>
   <br>
-  <a href="https://josesanchez-website.netlify.app/">⭐Sitio Web Personal⭐</a>
+  <a href="https://website-jose.up.railway.app/">⭐Sitio Web Personal⭐</a>
   <br>
-  <img src="https://josesanchez-website.netlify.app/Imagenes/Sitio-web.png" width="500"/>
+  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/3a94fb33-82ec-4470-93d4-bf91eadfc8e5" width="500"/>  
   <br>
   <br>
   <a href="https://thejose24.github.io/Challenge-ONE/">🔒Encriptador de Textos🔒</a>
   <br>
-  <img src="https://josesanchez-website.netlify.app/Imagenes/Encriptador.png" width="500"/>
-  <br>
+  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/2cefac05-447b-4862-b6ae-42a8fd8209b2" width="500"/>
+  <br>  
 </div>
     
 - 🤓 Habilidades:
@@ -63,7 +70,7 @@
   
   📧 email: ***devbyjose@gmail.com***
   <br>
-  🌐 Sitio Web: ***https://josesanchez-website.netlify.app/***
+  🌐 Sitio Web: ***https://website-jose.up.railway.app/***
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"> Linkedin: ***https://www.linkedin.com/in/jose-sanchez-eisi/***
   
