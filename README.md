@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" />
-  <h1 align="center">Hola 👋 soy Jose Sanchez</h1>
+  <h1 align="center"> Hola👋 soy Jose Sanchez </h1>
   <h3 align="center">Soy un estudiante apasionado de Ingeniería de Sistemas y graduado del programa Oracle: ONE. Mi principal objetivo es forjarme como un desarrollador Full Stack y estoy entusiasmado por encontrar oportunidades que me permitan aprender, crecer y evolucionar en el mundo del desarrollo de software</h3>
 </div>
   
@@ -15,21 +15,26 @@
 
 - 🗃️ Mis proyectos:
 <div align="center">
+  <a href="#">📈Rediseño E-commerce Slam Racing📈</a>
+  <br>
+  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/b0060b04-f6a0-4965-9640-6a1b80fb85b2" width="500"/>
+  <br>
+  En desarrollo... 
+  <br>
+  <br>
+  <a href="https://website-jose.up.railway.app/">⭐Sitio Web Personal⭐</a>
+  <br>
+  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/f6168424-9efb-4bed-ac5c-83287fe09326" width="500"/> 
+  <br>
+  <br>
   <a href="#">🎉Sistema de ventas para eventos🎉</a>
   <br>
   <img src="https://github.com/TheJose24/TheJose24/assets/129393100/a4189c94-d922-476c-8938-13d9d8f42bd1" width="500"/>
-  <br>
-  En desarrollo..
   <br>
   <br>
   <a href="https://a-l-f-r-e-d.onrender.com/">🤖Asistente Virtual🤖</a>
   <br>
   <img src="https://github.com/TheJose24/TheJose24/assets/129393100/e254652c-4f13-4e2a-b737-58eecac7af29" width="500"/>
-  <br>
-  <br>
-  <a href="https://website-jose.up.railway.app/">⭐Sitio Web Personal⭐</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/3a94fb33-82ec-4470-93d4-bf91eadfc8e5" width="500"/>  
   <br>
   <br>
   <a href="https://thejose24.github.io/Challenge-ONE/">🔒Encriptador de Textos🔒</a>
@@ -52,6 +57,7 @@
    <h3 align="center">Frameworks</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height"40">&nbsp;
 
    <h3 align="center">Bases de datos</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
@@ -70,7 +76,7 @@
   
   📧 email: ***devbyjose@gmail.com***
   <br>
-  🌐 Sitio Web: ***https://website-jose.up.railway.app/***
+  🌐 Sitio Web: ***https://devbyjose-portfolio.onrender.com/***
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"> Linkedin: ***https://www.linkedin.com/in/jose-sanchez-eisi/***
   
