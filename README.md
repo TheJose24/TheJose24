@@ -1,18 +1,45 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" />
-  <h1 align="center"> Hola👋 soy Jose Sanchez </h1>
-  <h3 align="center">Soy un estudiante apasionado de Ingeniería de Sistemas y graduado del programa Oracle: ONE. Mi principal objetivo es forjarme como un desarrollador Full Stack y estoy entusiasmado por encontrar oportunidades que me permitan aprender, crecer y evolucionar en el mundo del desarrollo de software</h3>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=400&color=F75C7E&center=true&random=false&width=435&height=45&lines=Hola%2C%F0%9F%91%8Bsoy+Jos%C3%A9;Desarrollador+Backend;Desarrollador+Frontend" alt="Typing SVG" /></a>
+  
+  <p align="justify">Estudiante apasionado de Ingeniería de Sistemas y graduado del programa Oracle: ONE. Mi principal objetivo es forjarme como un desarrollador Full Stack y estoy entusiasmado por encontrar oportunidades que me permitan aprender, crecer y evolucionar en el mundo del desarrollo de software</p>
+
+<div id="stack" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+
+   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+   
+   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+   <img src="https://github.com/kong/insomnia/blob/develop/packages/insomnia/src/icons/icon.ico?raw=true" alt="Insomnia" width="40" height="40"> 
+   
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS-Code" width="40" height="40">
+   <img src="https://img.icons8.com/?size=256&id=w1Gq29w4RQWL&format=png" alt="IntelliJ" width="40" height="40">
+   <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" alt="Netbeans" width="40" height="40">
+   
 </div>
   
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jose-sanchez-eisi/" target="blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Linkedin Badge"/>
-  </a>
-</div> 
-    
----
+</div>
 
+
+<br>
+<hr>
 - 🗃️ Mis proyectos:
 <div align="center">
   <a href="#">📈Rediseño E-commerce Slam Racing📈</a>
@@ -42,35 +69,6 @@
   <img src="https://github.com/TheJose24/TheJose24/assets/129393100/2cefac05-447b-4862-b6ae-42a8fd8209b2" width="500"/>
   <br>  
 </div>
-    
-- 🤓 Habilidades:
-  <div id="icons" align="center">
-   <h3 align="center">Lenguajes de programacion</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
-    
-   <h3 align="center">Tecnologias Web</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40">&nbsp;
-
-   <h3 align="center">Frameworks</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height"40">&nbsp;
-
-   <h3 align="center">Bases de datos</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-Server" alt="SQL-Server" width="40" height="40">&nbsp;
-
-   <h3 align="center">Herramientas y entornos de desarrollo</h3>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-   <img src="https://github.com/kong/insomnia/blob/develop/packages/insomnia/src/icons/icon.ico?raw=true" title="Insomnia" alt="Insomnia" width="40" height="40">&nbsp;  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS-Code" alt="VS-Code" width="40" height="40">&nbsp;
-   <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" title="Netbeans" alt="Netbeans" width="40" height="40">&nbsp;
-   <img src="https://img.icons8.com/?size=256&id=w1Gq29w4RQWL&format=png" title="IntelliJ" alt="IntelliJ" width="40" height="40">&nbsp; 
-  </div> 
   
 - 📫 Conectate conmigo:
   
