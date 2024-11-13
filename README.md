@@ -74,9 +74,9 @@
   
   📧 email: ***devbyjose@gmail.com***
   <br>
-  🌐 Sitio Web: ***https://devbyjose-portfolio.onrender.com/***
+  🌐 Sitio Web: ***https://www.devbyjose.studio***
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"> Linkedin: ***https://www.linkedin.com/in/jose-sanchez-eisi/***
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"> Linkedin: ***https://www.linkedin.com/in/devbyjose***
   
 - 📈 Mis Estadisticas :
 <div id="stats" align="center">
