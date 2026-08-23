@@ -23,16 +23,16 @@
 <g class="barra">
   <text class="m" x="24" y="136" font-size="13" fill="#c9d1cd">TypeScript</text>
   <rect x="150" y="125" width="250" height="8" rx="4" fill="#1b2022"/>
-  <rect x="150" y="125" width="147.5" height="8" rx="4" fill="#3178c6"/>
-  <text class="m" x="410" y="136" font-size="12" fill="#697570">59.0 %</text>
+  <rect x="150" y="125" width="146.4" height="8" rx="4" fill="#3178c6"/>
+  <text class="m" x="410" y="136" font-size="12" fill="#697570">58.6 %</text>
   <text class="m" x="24" y="166" font-size="13" fill="#c9d1cd">JavaScript</text>
   <rect x="150" y="155" width="250" height="8" rx="4" fill="#1b2022"/>
-  <rect x="150" y="155" width="51.2" height="8" rx="4" fill="#f1e05a"/>
-  <text class="m" x="410" y="166" font-size="12" fill="#697570">20.5 %</text>
+  <rect x="150" y="155" width="52.6" height="8" rx="4" fill="#f1e05a"/>
+  <text class="m" x="410" y="166" font-size="12" fill="#697570">21.1 %</text>
   <text class="m" x="24" y="196" font-size="13" fill="#c9d1cd">Java</text>
   <rect x="150" y="185" width="250" height="8" rx="4" fill="#1b2022"/>
-  <rect x="150" y="185" width="48.9" height="8" rx="4" fill="#b07219"/>
-  <text class="m" x="410" y="196" font-size="12" fill="#697570">19.5 %</text>
+  <rect x="150" y="185" width="48.5" height="8" rx="4" fill="#b07219"/>
+  <text class="m" x="410" y="196" font-size="12" fill="#697570">19.4 %</text>
   <text class="m" x="24" y="226" font-size="13" fill="#c9d1cd">Python</text>
   <rect x="150" y="215" width="250" height="8" rx="4" fill="#1b2022"/>
   <rect x="150" y="215" width="2.5" height="8" rx="4" fill="#3572A5"/>
