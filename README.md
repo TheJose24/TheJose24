@@ -160,7 +160,7 @@ cosas fuera de `localhost`.
   <img src="./assets/stats.svg" alt="Repositorios, estrellas, seguidores y lenguajes" width="480">
 </div>
 
-<sub>Ambos gráficos los regenera un <a href="./.github/workflows/perfil.yml">flujo de GitHub Actions</a> dos veces por semana y quedan guardados en este repositorio, así que no dependen de que ningún servicio externo esté disponible.</sub>
+<!-- <sub>Ambos gráficos los regenera un <a href="./.github/workflows/perfil.yml">flujo de GitHub Actions</a> dos veces por semana y quedan guardados en este repositorio, así que no dependen de que ningún servicio externo esté disponible.</sub> -->
 
 ---
 
