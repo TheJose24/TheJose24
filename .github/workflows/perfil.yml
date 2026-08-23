@@ -1,0 +1,48 @@
+name: Actualizar el perfil
+
+# Dos veces por semana basta: los datos cambian despacio y así no se gastan
+# minutos de Actions sin motivo. `workflow_dispatch` permite forzarlo a mano.
+on:
+  schedule:
+    - cron: '17 6 * * 1,4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Generar las estadísticas
+        env:
+          # El token del propio flujo: sube el límite de peticiones a la API y
+          # evita que la generación falle a media mañana por agotarlo.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node tools/generar-stats.mjs ${{ github.repository_owner }}
+
+      - name: Generar la serpiente de contribuciones
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/serpiente.svg?palette=github-dark&color_snake=#4ade80&color_dots=#0b0d0e,#1b2022,#2a3336,#4ade80,#86efac
+
+      - name: Publicar si algo cambió
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/
+          # Sin esta comprobación el flujo falla los días que nada cambia.
+          if git diff --cached --quiet; then
+            echo 'sin cambios'
+            exit 0
+          fi
+          git commit -m 'chore: actualiza las estadísticas del perfil'
+          git push

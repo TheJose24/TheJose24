@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img"
+     aria-label="Terminal: José Sánchez, desarrollador full stack">
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace; }
+    .cursor { animation: parpadeo 1.06s steps(1) infinite; }
+    @keyframes parpadeo { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+
+    /* Cuatro líneas que se turnan. Cada una vive un cuarto del ciclo. */
+    .rota { opacity: 0; animation: turno 12s linear infinite; }
+    .r1 { opacity: 1; }
+    .r2 { animation-delay: 3s }
+    .r3 { animation-delay: 6s }
+    .r4 { animation-delay: 9s }
+    @keyframes turno {
+      0%    { opacity: 0 }
+      3%    { opacity: 1 }
+      22%   { opacity: 1 }
+      25%   { opacity: 0 }
+      100%  { opacity: 0 }
+    }
+    /* Sin animación para quien la haya desactivado en su sistema. */
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none }
+      .rota { animation: none; opacity: 0 }
+      .r1 { opacity: 1 }
+    }
+  </style>
+
+  <rect width="900" height="260" rx="12" fill="#08090a"/>
+  <rect x="1" y="1" width="898" height="258" rx="11" fill="none" stroke="#1b2022" stroke-width="2"/>
+
+  <rect x="1" y="1" width="898" height="42" rx="11" fill="#0e1112"/>
+  <rect x="1" y="30" width="898" height="13" fill="#0e1112"/>
+  <line x1="1" y1="43" x2="899" y2="43" stroke="#1b2022" stroke-width="2"/>
+  <circle cx="26" cy="22" r="5" fill="#2a3336"/>
+  <circle cx="44" cy="22" r="5" fill="#2a3336"/>
+  <circle cx="62" cy="22" r="5" fill="#2a3336"/>
+  <text class="mono" x="86" y="27" font-size="14" fill="#697570">jose@devbyjose.org</text>
+
+  <text class="mono" x="34" y="88" font-size="19">
+    <tspan fill="#4ade80">$ </tspan><tspan fill="#c9d1cd">whoami</tspan>
+  </text>
+
+  <text class="mono" x="34" y="128" font-size="27" font-weight="700" fill="#eef3ef">José Sánchez</text>
+  <text class="mono" x="34" y="160" font-size="17" fill="#697570">Desarrollador Full Stack · Lima, Perú</text>
+
+  <text class="mono" x="34" y="212" font-size="17">
+    <tspan fill="#4ade80">$ </tspan><tspan fill="#c9d1cd">cat stack.txt</tspan>
+  </text>
+
+  <g class="mono" font-size="17" fill="#58a6ff">
+    <text class="rota r1" x="34" y="240">java 21 · spring boot · quarkus · microservicios</text>
+    <text class="rota r2" x="34" y="240">angular · typescript · señales · sin zone.js</text>
+    <text class="rota r3" x="34" y="240">oracle · postgresql · optimización de consultas</text>
+    <text class="rota r4" x="34" y="240">proxmox · docker · jenkins · vllm sobre gpu</text>
+  </g>
+
+  <rect class="cursor" x="196" y="198" width="10" height="18" fill="#4ade80" opacity="0.85"/>
+</svg>

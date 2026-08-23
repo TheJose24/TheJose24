@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="278" viewBox="0 0 480 278" role="img" aria-label="Estadísticas de GitHub de TheJose24">
+  <style>
+    .m { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,monospace }
+    .barra { animation: crecer .9s ease-out both }
+    @keyframes crecer { from { transform: scaleX(0); transform-origin: left } to { transform: scaleX(1) } }
+    @media (prefers-reduced-motion: reduce) { .barra { animation: none } }
+  </style>
+  <rect width="480" height="278" rx="12" fill="#0b0d0e"/>
+  <rect x="1" y="1" width="478" height="276" rx="11" fill="none" stroke="#1b2022" stroke-width="2"/>
+
+  <text class="m" x="24" y="38" font-size="15"><tspan fill="#4ade80">$ </tspan><tspan fill="#eef3ef">gh stats --user TheJose24</tspan><tspan fill="#465049"> --sin-marcado</tspan></text>
+  <line x1="24" y1="54" x2="456" y2="54" stroke="#1b2022" stroke-width="2"/>
+
+  <text class="m" x="24"  y="84" font-size="24" fill="#eef3ef">27</text>
+  <text class="m" x="24"  y="104" font-size="12" fill="#697570">repos</text>
+  <text class="m" x="140" y="84" font-size="24" fill="#eef3ef">6</text>
+  <text class="m" x="140" y="104" font-size="12" fill="#697570">estrellas</text>
+  <text class="m" x="270" y="84" font-size="24" fill="#eef3ef">11</text>
+  <text class="m" x="270" y="104" font-size="12" fill="#697570">seguidores</text>
+  <text class="m" x="400" y="84" font-size="24" fill="#eef3ef">2023</text>
+  <text class="m" x="400" y="104" font-size="12" fill="#697570">desde</text>
+
+<g class="barra">
+  <text class="m" x="24" y="136" font-size="13" fill="#c9d1cd">TypeScript</text>
+  <rect x="150" y="125" width="250" height="8" rx="4" fill="#1b2022"/>
+  <rect x="150" y="125" width="147.5" height="8" rx="4" fill="#3178c6"/>
+  <text class="m" x="410" y="136" font-size="12" fill="#697570">59.0 %</text>
+  <text class="m" x="24" y="166" font-size="13" fill="#c9d1cd">JavaScript</text>
+  <rect x="150" y="155" width="250" height="8" rx="4" fill="#1b2022"/>
+  <rect x="150" y="155" width="51.2" height="8" rx="4" fill="#f1e05a"/>
+  <text class="m" x="410" y="166" font-size="12" fill="#697570">20.5 %</text>
+  <text class="m" x="24" y="196" font-size="13" fill="#c9d1cd">Java</text>
+  <rect x="150" y="185" width="250" height="8" rx="4" fill="#1b2022"/>
+  <rect x="150" y="185" width="48.9" height="8" rx="4" fill="#b07219"/>
+  <text class="m" x="410" y="196" font-size="12" fill="#697570">19.5 %</text>
+  <text class="m" x="24" y="226" font-size="13" fill="#c9d1cd">Python</text>
+  <rect x="150" y="215" width="250" height="8" rx="4" fill="#1b2022"/>
+  <rect x="150" y="215" width="2.5" height="8" rx="4" fill="#3572A5"/>
+  <text class="m" x="410" y="226" font-size="12" fill="#697570">1.0 %</text>
+</g>
+</svg>

@@ -1,90 +1,197 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=400&color=F75C7E&center=true&random=false&width=435&height=45&lines=Hola%2C%F0%9F%91%8Bsoy+Jos%C3%A9;Desarrollador+Backend;Desarrollador+Frontend" alt="Typing SVG" /></a>
-  
-  <p align="justify">Estudiante apasionado de Ingeniería de Sistemas y graduado del programa Oracle: ONE. Mi principal objetivo es forjarme como un desarrollador Full Stack y estoy entusiasmado por encontrar oportunidades que me permitan aprender, crecer y evolucionar en el mundo del desarrollo de software</p>
-
-<div id="stack" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-
-   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-   
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-   <img src="https://github.com/kong/insomnia/blob/develop/packages/insomnia/src/icons/icon.ico?raw=true" alt="Insomnia" width="40" height="40"> 
-   
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS-Code" width="40" height="40">
-   <img src="https://img.icons8.com/?size=256&id=w1Gq29w4RQWL&format=png" alt="IntelliJ" width="40" height="40">
-   <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico" alt="Netbeans" width="40" height="40">
-   
-</div>
-  
-</div>
-
-
-<br>
-<hr>
-- 🗃️ Mis proyectos:
 <div align="center">
-  <a href="#">📈Rediseño E-commerce Slam Racing📈</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/b0060b04-f6a0-4965-9640-6a1b80fb85b2" width="500"/>
-  <br>
-  En desarrollo... 
-  <br>
-  <br>
-  <a href="https://website-jose.up.railway.app/">⭐Sitio Web Personal⭐</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/f6168424-9efb-4bed-ac5c-83287fe09326" width="500"/> 
-  <br>
-  <br>
-  <a href="#">🎉Sistema de ventas para eventos🎉</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/a4189c94-d922-476c-8938-13d9d8f42bd1" width="500"/>
-  <br>
-  <br>
-  <a href="https://a-l-f-r-e-d.onrender.com/">🤖Asistente Virtual🤖</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/e254652c-4f13-4e2a-b737-58eecac7af29" width="500"/>
-  <br>
-  <br>
-  <a href="https://thejose24.github.io/Challenge-ONE/">🔒Encriptador de Textos🔒</a>
-  <br>
-  <img src="https://github.com/TheJose24/TheJose24/assets/129393100/2cefac05-447b-4862-b6ae-42a8fd8209b2" width="500"/>
-  <br>  
+  <img src="./assets/banner.svg" alt="José Sánchez — Desarrollador Full Stack" width="900">
+
+  <p>
+    <a href="https://www.devbyjose.org"><img src="https://img.shields.io/badge/devbyjose.org-0b0d0e?style=for-the-badge&logo=googlechrome&logoColor=4ade80" alt="Sitio"></a>
+    <a href="https://www.linkedin.com/in/devbyjose/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+    <a href="mailto:devbyjose@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
+  </p>
 </div>
-  
-- 📫 Conectate conmigo:
-  
-  📧 email: ***devbyjose@gmail.com***
-  <br>
-  🌐 Sitio Web: ***https://www.devbyjose.studio***
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"> Linkedin: ***https://www.linkedin.com/in/devbyjose***
-  
-- 📈 Mis Estadisticas :
-<div id="stats" align="center">
- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TheJose24&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJose24&show_icons=true&theme=tokyonight&locale=es)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJose24&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+---
+
+## `$ whoami`
+
+Desarrollador Full Stack en **QALLPA** desde marzo de 2025, en proyectos de
+consultoría para clientes del sector público y privado. Trabajo tanto en
+desarrollos nuevos como en sistemas que llevan años en producción.
+
+- Desarrollo un **ERP con microservicios** sobre Java 21 y Quarkus.
+- Refactoricé procedimientos almacenados y consultas Oracle de alta latencia:
+  **70 % menos tiempo de respuesta** en una operación crítica.
+- Administro la infraestructura de inferencia de **LLMs con vLLM sobre GPU**.
+- Automatizo procesos e integraciones con **n8n**.
+- Mantengo un **homelab con Proxmox** donde despliego mis proyectos.
+- Curso el 10.º y último ciclo de Ingeniería de Sistemas e Informática en la UTP.
+
+---
+
+## Stack
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
+
+**Datos**
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle">
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square" alt="PL/SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+**Infraestructura**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale">
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**IA y automatización**
+
+<p>
+  <img src="https://img.shields.io/badge/vLLM-111827?style=flat-square&logo=nvidia&logoColor=76B900" alt="vLLM">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+</p>
+
+---
+
+## Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [devbyjose.org](https://github.com/TheJose24/devbyjose.org)
+
+Mi portafolio, construido como un **gestor de ventanas en mosaico dentro del
+navegador**, con intérprete de comandos y espacios de trabajo.
+
+Angular 22 sin `zone.js`, todo el estado en señales, ocho rutas prerenderizadas
+a HTML estático y un Cloudflare Worker para el formulario.
+
+`Angular 22` `Signals` `SSG` `Cloudflare Workers`
+
+→ **[www.devbyjose.org](https://www.devbyjose.org)**
+
+</td>
+<td width="50%" valign="top">
+
+### [HealthyMe](https://github.com/TheJose24/HealthyMe-Backend)
+
+Plataforma de gestión clínica en **microservicios**: Config Server, service
+discovery y API Gateway sobre Spring Boot.
+
+Persistencia políglota —MySQL para lo transaccional, MongoDB para los
+documentos— y un modelo de lenguaje autoalojado con Ollama.
+
+`Java` `Spring Boot` `Angular 17` `MySQL` `MongoDB` `Ollama` `Jenkins`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Euphony](https://github.com/TheJose24/EuphonyApp-Backend)
+
+Plataforma de streaming de audio que lideré aplicando **PMBOK**.
+
+Autenticación centralizada en Keycloak sobre OAuth2 y OIDC. En 2026 migré el
+[frontend](https://github.com/TheJose24/euphony-front) a Angular 21 con
+componentes standalone y señales.
+
+`Java 21` `Spring Boot` `Keycloak` `PostgreSQL` `Angular 21`
+
+</td>
+<td width="50%" valign="top">
+
+### [Homelab](https://www.devbyjose.org/homelab)
+
+Mi infraestructura, donde despliego proyectos y aprendo cómo funcionan las
+cosas fuera de `localhost`.
+
+**2 núcleos · 5,7 GB de RAM · 0 puertos expuestos**
+
+`Proxmox VE` `Docker` `LXC` `Cloudflare Tunnels` `Tailscale`
+
+→ **[Topología y métricas](https://www.devbyjose.org/homelab)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Actividad
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/serpiente.svg">
+    <img src="./assets/serpiente.svg" alt="Mis contribuciones, recorridas por una serpiente" width="880">
+  </picture>
+
+  <br><br>
+
+  <img src="./assets/stats.svg" alt="Repositorios, estrellas, seguidores y lenguajes" width="480">
 </div>
+
+<sub>Ambos gráficos los regenera un <a href="./.github/workflows/perfil.yml">flujo de GitHub Actions</a> dos veces por semana y quedan guardados en este repositorio, así que no dependen de que ningún servicio externo esté disponible.</sub>
+
+---
+
+## Homelab
+
+```text
+internet
+    ╎                       el túnel sale desde dentro:
+    ▼                       nada escucha en la red
+proxmox-ve 9.2 · debian 13 · 2 núcleos · 5,7 GB
+│
+├── cloudflared             servicio systemd · 0 puertos abiertos
+│
+├── vm 100 · vps            debian 13 · 150 GB · arranca con el host
+│   └── docker
+│       ├── nginx-proxy-manager    proxy inverso · certificados
+│       ├── portainer              gestión de contenedores
+│       ├── jellyfin               multimedia
+│       ├── jenkins                ci / cd · bajo demanda
+│       └── keycloak               oauth2 · oidc · bajo demanda
+│
+├── ct 103 · adguard        dns con filtrado
+├── ct 104 · tailscale      malla de acceso remoto
+│
+└── vm 101/102              plantilla cloud-init y banco de pruebas
+```
+
+No es un servidor grande, y eso es justamente lo útil: con 5,7 GB al 91 % de
+uso, cada servicio tiene que justificar su memoria. Lo que quiero poder romper
+experimentando va en máquina virtual; lo que solo tiene que estar levantado
+—el DNS, la VPN— va en contenedor LXC, que comparte kernel y arranca en un
+segundo.
+
+→ **[Topología y métricas en vivo](https://www.devbyjose.org/homelab)**
